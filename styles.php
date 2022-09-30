@@ -1,10 +1,10 @@
 <?php
   // CSS files to compress
 $files = array(
-  '/var/www/html/common/pi/global/css/normalize-3.0.2.min.css',
-  '/var/www/html/common/pi/global/js/blueimp-gallery-2.27.0/css/blueimp-gallery.min.css',
-  '/var/www/html/common/pi/global/bootstrap/css/bootstrap.css',
-  '/var/www/html/pipeline/css/base.css',
+  '/css/normalize-3.0.2.min.css',
+  '/blueimp-gallery-2.27.0/css/blueimp-gallery.min.css',
+  '/bootstrap/css/bootstrap.css',
+  '/css/base.css',
 );
 
   // Headers
